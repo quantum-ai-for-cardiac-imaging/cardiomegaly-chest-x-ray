@@ -13,15 +13,15 @@ after login and agreeing to the Standford University Dataset Research Use Agreem
 
 Notebook Version:
 
-[week5_realdevice_v2(init_freezer).ipynb](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/week5_realdevice_v2(init_freezer).ipynb)
+[init_freezer.ipynb](/init_freezer.ipynb)
 
-[week5_realdevice_v2(no freezer).ipynb](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/week5_realdevice_v2(no%20freezer).ipynb)
+[no freezer.ipynb](/no%20freezer.ipynb)
 
-[week5_realdevice_v2(init_freezer) - 6qubit.ipynb](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/week5_realdevice_v2(init_freezer)%20-%206qubit.ipynb)
+[init_freezer - P6qubit.ipynb](/init_freezer%20-%20P6qubit.ipynb)
 
-[week5_realdevice_v2(init_freezer) - 8qubit.ipynb](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/week5_realdevice_v2(init_freezer)%20-%208qubit.ipynb)
+[init_freezer - P8qubit.ipynb](/init_freezer%20-%20P8qubit.ipynb)
 
-[week5_realdevice_v2(init_freezer) - 10qubit.ipynb](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/week5_realdevice_v2(init_freezer)%20-%2010qubit.ipynb)
+[init_freezer - P10qubit.ipynb](/init_freezer%20-%20P10qubit.ipynb)
 
 Command Prompt Version:
 
