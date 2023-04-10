@@ -1,0 +1,109 @@
+Time elapsed:  0.007512331008911133
+Scans found: 2436
+cuda:0
+Time elapsed:  3.1762659549713135
+24
+tensor([0.4659, 0.5341], grad_fn=<_TorchNNFunctionBackward>)
+Data size: 5000, global effective dimension: 9.4907
+Number of weights: 24, normalized effective dimension: 0.3954
+Effective dimension: [9.49065301 9.49269266 9.49773383 9.55465167 9.57370366 9.59703157
+ 9.61462139 9.62650851 9.66091397 9.68358421]
+Number of weights: 24
+
+start train:
+name: Qiskit_easy_2_qnn_model
+Transform Time elapsed:  5.719047784805298
+1 Training started:
+Train Epoch: 1/20 train loss 0.6539 Acc batch: 0.6266 learning_rate: 0.0010 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:20<00:02,  2.97s/it]
+Transform Time elapsed:  5.26031494140625
+2 Training started:
+Train Epoch: 2/20 train loss 0.6859 Acc batch: 0.5475 learning_rate: 0.0010 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:19<00:02,  2.87s/it]
+Transform Time elapsed:  5.3107593059539795
+3 Training started:
+Train Epoch: 3/20 train loss 0.6905 Acc batch: 0.5363 learning_rate: 0.0003 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:21<00:02,  2.89s/it]
+Transform Time elapsed:  5.138659954071045
+4 Training started:
+Train Epoch: 4/20 train loss 0.6661 Acc batch: 0.6061 learning_rate: 0.0003 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:18<00:02,  2.92s/it]
+Transform Time elapsed:  5.303818225860596
+5 Training started:
+Train Epoch: 5/20 train loss 0.6764 Acc batch: 0.5785 learning_rate: 0.0001 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:19<00:02,  2.89s/it]
+Transform Time elapsed:  5.135597229003906
+6 Training started:
+Train Epoch: 6/20 train loss 0.6220 Acc batch: 0.7169 learning_rate: 0.0001 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:20<00:02,  2.84s/it]
+Transform Time elapsed:  5.126113414764404
+7 Training started:
+Train Epoch: 7/20 train loss 0.5955 Acc batch: 0.7509 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:21<00:02,  2.90s/it]
+Transform Time elapsed:  5.108529806137085
+8 Training started:
+Train Epoch: 8/20 train loss 0.5877 Acc batch: 0.7579 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:22<00:02,  2.91s/it]
+Transform Time elapsed:  5.131978988647461
+9 Training started:
+Train Epoch: 9/20 train loss 0.5886 Acc batch: 0.7585 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:22<00:02,  2.93s/it]
+Transform Time elapsed:  5.488765478134155
+10 Training started:
+Train Epoch: 10/20 train loss 0.5819 Acc batch: 0.7638 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:24<00:02,  2.89s/it]
+Transform Time elapsed:  4.95627236366272
+11 Training started:
+Train Epoch: 11/20 train loss 0.5882 Acc batch: 0.7526 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:24<00:02,  2.97s/it]
+Transform Time elapsed:  5.244210243225098
+12 Training started:
+Train Epoch: 12/20 train loss 0.5810 Acc batch: 0.7638 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:27<00:02,  2.97s/it]
+Transform Time elapsed:  4.952611207962036
+13 Training started:
+Train Epoch: 13/20 train loss 0.5758 Acc batch: 0.7737 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:29<00:02,  2.89s/it]
+Transform Time elapsed:  4.597351551055908
+14 Training started:
+Train Epoch: 14/20 train loss 0.5863 Acc batch: 0.7550 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [10:28<00:02,  2.89s/it]
+Transform Time elapsed:  5.292891502380371
+15 Training started:
+Train Epoch: 15/20 train loss 0.5839 Acc batch: 0.7567 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [08:04<00:01,  1.60s/it]
+Transform Time elapsed:  2.2401583194732666
+16 Training started:
+Train Epoch: 16/20 train loss 0.5782 Acc batch: 0.7620 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [05:43<00:01,  1.58s/it]
+Transform Time elapsed:  2.255892515182495
+17 Training started:
+Train Epoch: 17/20 train loss 0.5802 Acc batch: 0.7638 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [05:42<00:01,  1.60s/it]
+Transform Time elapsed:  2.222034454345703
+18 Training started:
+Train Epoch: 18/20 train loss 0.5784 Acc batch: 0.7732 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [05:42<00:01,  1.61s/it]
+Transform Time elapsed:  2.2814993858337402
+19 Training started:
+Train Epoch: 19/20 train loss 0.5849 Acc batch: 0.7562 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [05:42<00:01,  1.61s/it]
+Transform Time elapsed:  2.2684578895568848
+20 Training started:
+Train Epoch: 20/20 train loss 0.5784 Acc batch: 0.7673 learning_rate: 0.0000 time: 100%|███████████████████████████████████████████████████████████████████████████████▋| 213/214 [05:42<00:01,  1.62s/it]
+
+Time elapsed:  11008.92429804802
+
+classification_report:
+              precision    recall  f1-score   support
+
+           0     0.8244    0.8061    0.8151       361
+           1     0.8143    0.8320    0.8231       369
+
+    accuracy                         0.8192       730
+   macro avg     0.8193    0.8190    0.8191       730
+weighted avg     0.8193    0.8192    0.8191       730
+
+(3, 224, 224)
+{sample}:
+              precision    recall  f1-score   support
+
+           0       0.86      0.82      0.84       856
+           1       0.83      0.86      0.84       850
+
+    accuracy                           0.84      1706
+   macro avg       0.84      0.84      0.84      1706
+weighted avg       0.84      0.84      0.84      1706
+
+{sample}:
+              precision    recall  f1-score   support
+
+           0       0.81      0.83      0.82       369
+           1       0.82      0.81      0.82       361
+
+    accuracy                           0.82       730
+   macro avg       0.82      0.82      0.82       730
+weighted avg       0.82      0.82      0.82       730
+
+Total_runtime:  11253.018777370453

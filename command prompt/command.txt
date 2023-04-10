@@ -1,0 +1,19 @@
+conda activate qamp2022_gpu
+cd C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2
+if not exist "C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output" mkdir C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output
+
+python trainer.py "densenet121_model" --init_step 2 --train_epochs 18  > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\densenet121_model_2_18_4.txt
+python trainer.py "alexnet_model" --init_step 2 --train_epochs 18 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\alexnet_model_2_18_4.txt
+python trainer.py "PL_qnn_model" --init_step 2 --train_epochs 18 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\PL_qnn_model_2_18_4.txt
+python trainer.py "Qiskit_easy_2_qnn_model" --init_step 2 --train_epochs 18 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\Qiskit_easy_2_qnn_model_2_18_4.txt
+python trainer.py "Qiskit_easy_4_qnn_model" --init_step 2 --train_epochs 18 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\Qiskit_easy_4_qnn_model_2_18_4.txt
+
+python trainer.py "densenet121_model" --init_step 0 --train_epochs 20 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\densenet121_model_0_20_4.txt
+python trainer.py "alexnet_model" --init_step 0 --train_epochs 20 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\alexnet_model_0_20_4.txt
+python trainer.py "PL_qnn_model" --init_step 0 --train_epochs 20 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\PL_qnn_model_0_20_4.txt
+python trainer.py "Qiskit_easy_2_qnn_model" --init_step 0 --train_epochs 20 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\Qiskit_easy_2_qnn_model_0_20_4.txt
+python trainer.py "Qiskit_easy_4_qnn_model" --init_step 0 --train_epochs 20 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\Qiskit_easy_4_qnn_model_0_20_4.txt
+
+python trainer.py "PL_qnn_model" --init_step 2 --train_epochs 18 --q_num 6 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\PL_qnn_model_2_18_6.txt
+python trainer.py "PL_qnn_model" --init_step 2 --train_epochs 18 --q_num 8 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\PL_qnn_model_2_18_8.txt
+python trainer.py "PL_qnn_model" --init_step 2 --train_epochs 18 --q_num 10 > C:\Users\poig\Documents\GitHub\QAMP-2022-Heart\Image_Processing_X-Rays\final_output_2\output\PL_qnn_model_2_18_10.txt
