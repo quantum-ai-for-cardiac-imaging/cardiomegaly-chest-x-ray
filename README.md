@@ -69,6 +69,3 @@ An example on how to start training, the address must be modified before executi
 ```
 command prompt/command
 ```
-
-
-
