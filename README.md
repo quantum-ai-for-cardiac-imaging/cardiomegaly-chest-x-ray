@@ -7,7 +7,7 @@ CSV files are available in the subfolders of the chexpert-corrected folder, orga
 
 These subfolders must be populated by the corresponding images to download from:
 https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
-after login and agreeing to the Standford University Dataset Research Use Agreement.
+after login and agreeing to the Stanford University Dataset Research Use Agreement.
 
 ## Code
 Author: [@poig](https://github.com/poig)
