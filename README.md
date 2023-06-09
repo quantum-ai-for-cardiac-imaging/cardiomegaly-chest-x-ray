@@ -24,6 +24,8 @@ Notebook Version:
 
 [init_freezer - P10qubit.ipynb](/init_freezer%20-%20P10qubit.ipynb)
 
+[ten-fold-cross-validation-cc-densenet-121.ipynb](/ten-fold-cross-validation-cc-densenet-121.ipynb)
+
 Command Prompt Version:
 
 `command prompt/trainer.py` : the main program here you will execute in command prompt
