@@ -42,7 +42,7 @@ Command Prompt Version:
 
 ## Saliency maps
 
-Saliency maps obtained using GradCAM++ for the test dataset are collected in folder gradcam_final.
+Saliency maps obtained using GradCAM++ for the test dataset are collected in folder [gradcam_final](/gradcam_final/).
   - Subfolder gcnn is for the classical-classical model.
   - Subfolder gpnn is for the PennyLane-based classical-quantum model.
   - Subfolder gqnn is for the Qiskit-based classical-quantum model.
