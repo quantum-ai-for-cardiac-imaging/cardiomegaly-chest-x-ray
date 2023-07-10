@@ -28,6 +28,8 @@ Notebook Version:
 
 [init_freezer - P10qubit.ipynb](/init_freezer%20-%20P10qubit.ipynb)
 
+[saliency-maps-test-set-classical-classical-model.ipynb](/saliency-maps-test-set-classical-classical-model.ipynb)
+
 [ten-fold-cross-validation-cc-densenet-121.ipynb](/ten-fold-cross-validation-cc-densenet-121.ipynb)
 
 Command Prompt Version:
@@ -37,3 +39,10 @@ Command Prompt Version:
 `command prompt/requirements.txt` : requirement package install with `conda create --name <env> --file <this file>`
 
 `command prompt/command` : example how to start training, require modify address before execute
+
+## Saliency maps
+
+Saliency maps obtained using GradCAM++ for the test dataset are collected in folder [gradcam_final](/gradcam_final/).
+  - Subfolder gcnn is for the classical-classical model.
+  - Subfolder gpnn is for the PennyLane-based classical-quantum model.
+  - Subfolder gqnn is for the Qiskit-based classical-quantum model.
