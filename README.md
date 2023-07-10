@@ -46,3 +46,11 @@ Saliency maps obtained using GradCAM++ for the test dataset are collected in fol
   - Subfolder gcnn is for the classical-classical model.
   - Subfolder gpnn is for the PennyLane-based classical-quantum model.
   - Subfolder gqnn is for the Qiskit-based classical-quantum model.
+
+The notebooks that generated these collections are:
+
+[saliency-maps-test-set-classical-model.ipynb](/saliency-maps-test-set-classical-model.ipynb)
+
+[saliency-maps-test-set-6-qubit-qiskit-model.ipynb](/saliency-maps-test-set-6-qubit-qiskit-model.ipynb)
+
+[saliency-maps-test-set-6-qubit-pennylane-model.ipynb](/saliency-maps-test-set-6-qubit-pennylane-model.ipynb)
