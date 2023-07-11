@@ -54,3 +54,41 @@ The notebooks that generated these collections are:
 [saliency-maps-test-set-6-qubit-qiskit-model.ipynb](/saliency-maps-test-set-6-qubit-qiskit-model.ipynb)
 
 [saliency-maps-test-set-6-qubit-pennylane-model.ipynb](/saliency-maps-test-set-6-qubit-pennylane-model.ipynb)
+
+## How to run the project locally
+
+After cloning the repository to your local system, create a virtual environment, and activate it.
+
+```
+conda create --name <env_name> python=3.8
+```
+
+On Windows:
+
+```
+.\<env_name>\Scripts\activate
+```
+
+On Mac/Linux:
+
+```
+source ./<env_name>/bin/activate
+```
+
+Then install the required packages using the specified [requirements.txt](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/command%20prompt/requirements.txt) file
+
+```
+conda install -n <env_name> requirements.txt
+```
+
+Run [trainer.py](https://github.com/quantum-ai-for-cardiac-imaging/cardiomegaly-chest-x-ray/blob/main/command%20prompt/trainer.py) file
+
+```
+command prompt/trainer.py
+```
+
+An example on how to start training, the address must be modified before execution
+
+```
+command prompt/command
+```
