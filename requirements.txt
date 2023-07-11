@@ -1,6 +1,7 @@
 numpy
 pandas
 seaborn
+scipy
 matplotlib
 torch
 torchvision
