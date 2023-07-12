@@ -7,7 +7,7 @@
 J. Imaging 2023, 9(7), 128; https://doi.org/10.3390/jimaging9070128
 
 ## Dataset
-CSV files are available in the subfolders of the chexpert-corrected folder, organized to comply with the codes.
+CSV files are available in the subfolders of the [chexpert-corrected folder](/chexpert-corrected/), organized to comply with the codes.
 
 These subfolders must be populated by the corresponding images to download from:
 https://stanfordaimi.azurewebsites.net/datasets/8cbd9ed4-2eb9-4565-affc-111cf4f7ebe2
